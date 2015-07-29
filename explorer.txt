@@ -1,0 +1,20 @@
+#Document Commands
+!PRODUCT,Explorer
+!VERSION,1.00.00
+!DOC_TYPE,Operator's Manual
+!VALID_PAGES,2
+!VALID_TEXT,2
+!TEMPLATE_COVER,required/htm/template_index_print.htm,index_print.htm
+!HTML_VERSION,explorer
+
+#Documentation Generation
+!INCLUDE,required/intro_qs_.txt,1
+!INCLUDE,required/overview_qs_.txt,1
+
+*,Equipment Guide,,equipment_.htm,,,
+
+*,Software Guide,,software_.htm,,,
+
+*,Operations Guide,,operations_.htm,,,
+
+*,Maintenance Guide,,maintenance_.htm,,,

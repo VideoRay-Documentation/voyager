@@ -1,2 +1,2 @@
-# voyager
-Voyager
+# explorer
+Operator's Manual
