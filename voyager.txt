@@ -2,8 +2,7 @@
 !PRODUCT,Voyager
 !VERSION,1.00.00
 !DOC_TYPE,Operator's Manual
-!OUT_DIR,voyager/
-!VALID_PAGES,1
+!INCLUDED_PAGES,1
 !VALID_TEXT,1
 !TEMPLATE_COVER,required/htm/template_index_print.htm,index_print.htm
 
